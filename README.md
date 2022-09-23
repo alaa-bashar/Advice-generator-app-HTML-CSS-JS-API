@@ -1,8 +1,8 @@
 # Advice-generator-app-HTML-CSS-JS-API
 
-<h1>An app the generates random advices</h1>
+<h3>An app the generates random advices</h3>
 
-<h2>Technologies Used:</h2>
+<h3>Technologies Used:</h3>
 <ol>
   <li>HTML</li>
   <li>CSS</li>
