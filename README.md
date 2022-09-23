@@ -24,6 +24,17 @@
 
 <h3>Live Preview through this [<a href="https://advice-generator-app-html-css-js-api-yux6.vercel.app/">link</a>].</h3>
 
-<hr/>
+<br/>
 
 <h3>Desktop Preview:</h3>
+<hr/>
+<img width="700px" src="./assets/readme-assets/advice-generator-desktop.jpeg" alt="">
+<img width="700px" src="./assets/readme-assets/advice-generator-desktop-loading.jpg" alt="">
+<br/>
+
+<h3>Mobile Preview:</h3>
+<hr/>
+<div style="display:"flex"">
+  <img width="300px" src="./assets/readme-assets/advice-generator-mobile.jpeg" alt="">
+  <img width="300px" src="./assets/readme-assets/advice-generator-moblie-loading.jpg" alt="">
+</div>
